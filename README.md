@@ -2,7 +2,7 @@ A selection of code examples.
 
 The code here is mostly from personal projects as code from commercial projects is not my intellectual property.
 
-You can also see examples of my frontend development work (created from a design brief) on these links:
+You can also see examples of my frontend development work from my time working with Edinburgh ecommerce agency, Digital Six, on these links:
 
 https://www.digitalsix.co.uk
 
