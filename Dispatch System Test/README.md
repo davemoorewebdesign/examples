@@ -1,6 +1,6 @@
 Brief:
 
-create the class structure for a Dispatch system. It doesn't need to run but it does need to demonstrate a good understanding of OOP and PHP.
+Create the class structure for a Dispatch system. It doesn't need to run but it does need to demonstrate a good understanding of OOP and PHP.
 
 At the start of the day, the Dispatch System will create a new Batch (scheduled by cron, not part of exercise).
 At the end of the day, the Dispatch System will end the current Batch (scheduled by cron, not part of exercise).
