@@ -1,4 +1,4 @@
-This is a fully working site that I submit as part of a technical test (not frontend focused e.g. bare minimum CSS) for a previous role.
+This is a fully working site that I submit as part of a technical test for a previous role. It's not frontend focused e.g. bare minimum CSS.
 
 The site is a URL monitor. You store URLs in a MySql database and it tests them periodically to get their http error code. On the frontend end, if a URL turns red, it has returned an error. If it is flashing red, it has returned more than 3 errors inside 120 seconds, indicating that the website is probably offline.
 
